@@ -18,7 +18,8 @@ The goal of this Repository is to help developers find all the necessary informa
 - [PrabhuPay](#prabhupay)
 - [Moru](#moru)
 - [nPay](#npay)
-
+- [iPay](#ipay)
+- [Cell Pay](#cellpay)
 ---
 
 ## [Esewa](https://esewa.com.np)
@@ -85,3 +86,7 @@ Released in Nepal: 2020
 ## [Moru](https://moru.com.np/)
 
 ## [nPay](https://npay.com.np/)
+
+## [ipay](https://ipay.com.np/)
+
+## [cellpay](https://cellpay.com.np/)
